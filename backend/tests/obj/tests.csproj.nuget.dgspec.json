@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\joyso\\Downloads\\Compressed\\azure-resume-main\\azure-resume-main\\backend\\tests\\tests.csproj": {}
+    "e:\\ACG Project\\Joy-Azure-Resume\\backend\\tests\\tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\joyso\\Downloads\\Compressed\\azure-resume-main\\azure-resume-main\\backend\\api\\api.csproj": {
+    "e:\\ACG Project\\Joy-Azure-Resume\\backend\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\joyso\\Downloads\\Compressed\\azure-resume-main\\azure-resume-main\\backend\\api\\api.csproj",
+        "projectUniqueName": "e:\\ACG Project\\Joy-Azure-Resume\\backend\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "c:\\Users\\joyso\\Downloads\\Compressed\\azure-resume-main\\azure-resume-main\\backend\\api\\api.csproj",
+        "projectPath": "e:\\ACG Project\\Joy-Azure-Resume\\backend\\api\\api.csproj",
         "packagesPath": "C:\\Users\\joyso\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\joyso\\Downloads\\Compressed\\azure-resume-main\\azure-resume-main\\backend\\api\\obj\\",
+        "outputPath": "e:\\ACG Project\\Joy-Azure-Resume\\backend\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joyso\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -81,14 +81,14 @@
         }
       }
     },
-    "c:\\Users\\joyso\\Downloads\\Compressed\\azure-resume-main\\azure-resume-main\\backend\\tests\\tests.csproj": {
+    "e:\\ACG Project\\Joy-Azure-Resume\\backend\\tests\\tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\joyso\\Downloads\\Compressed\\azure-resume-main\\azure-resume-main\\backend\\tests\\tests.csproj",
+        "projectUniqueName": "e:\\ACG Project\\Joy-Azure-Resume\\backend\\tests\\tests.csproj",
         "projectName": "tests",
-        "projectPath": "c:\\Users\\joyso\\Downloads\\Compressed\\azure-resume-main\\azure-resume-main\\backend\\tests\\tests.csproj",
+        "projectPath": "e:\\ACG Project\\Joy-Azure-Resume\\backend\\tests\\tests.csproj",
         "packagesPath": "C:\\Users\\joyso\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\joyso\\Downloads\\Compressed\\azure-resume-main\\azure-resume-main\\backend\\tests\\obj\\",
+        "outputPath": "e:\\ACG Project\\Joy-Azure-Resume\\backend\\tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joyso\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -103,8 +103,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "c:\\Users\\joyso\\Downloads\\Compressed\\azure-resume-main\\azure-resume-main\\backend\\api\\api.csproj": {
-                "projectPath": "c:\\Users\\joyso\\Downloads\\Compressed\\azure-resume-main\\azure-resume-main\\backend\\api\\api.csproj"
+              "e:\\ACG Project\\Joy-Azure-Resume\\backend\\api\\api.csproj": {
+                "projectPath": "e:\\ACG Project\\Joy-Azure-Resume\\backend\\api\\api.csproj"
               }
             }
           }
